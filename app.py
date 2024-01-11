@@ -1,7 +1,5 @@
-# gemini_app.py
 from dotenv import load_dotenv
 import streamlit as st
-import os
 from utils import get_text_response, get_image_response
 from PIL import Image
 
